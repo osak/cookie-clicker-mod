@@ -3,7 +3,7 @@
 	"ID": "osak-cookie-clicker-mod",
 	"Author": "osa_k",
 	"Description": "Adds useful information and automation of my own",
-	"ModVersion": 1,
+	"ModVersion": 2,
 	"GameVersion": 2.052,
 	"Date": "23/08/2022",
 	"Dependencies": [],
