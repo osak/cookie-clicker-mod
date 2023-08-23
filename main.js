@@ -54,7 +54,7 @@ Game.registerMod("osak-cookie-clicker-mod", {
 			market.buyGood = MOD.addHook(market.buyGood, function () {
 				this.updateNetWorth();
 			});
-			market.sellGood = MOD.addHook(market.buyGood, function () {
+			market.sellGood = MOD.addHook(market.sellGood, function () {
 				this.updateNetWorth();
 			});
 			market.tick = MOD.addHook(market.tick, function () {
